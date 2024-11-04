@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zemin
+  - Kiraz
+  - AyiTepe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ArkaPlan
+  - Karakter
+  - OnPlan
+  - Zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArkaResim
+    uniqueID: 1492004065
+    locked: 0
+  - name: OnResim
+    uniqueID: 3226962093
+    locked: 0
+  - name: ArkaPlan
+    uniqueID: 4038380879
+    locked: 0
+  - name: Karakter
+    uniqueID: 295942875
+    locked: 0
+  - name: OnPlan
+    uniqueID: 3092904885
+    locked: 0
