@@ -1,1 +1,2 @@
 # 2DPlatformGame
+That's a 2D platform game that i made with C# using Unity. I used the assets from Unity asset store. Our character can move around using "WASD" or arrow keys. When we collect the cherries there'll be a effect similar to explosion. A bear comes towards us from the left and if we can jump and touch it's head, our character jumps towards to the air and the bear disappears. Our character's apperiances changes if it falls, runs or stays. 
